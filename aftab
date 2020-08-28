@@ -75,7 +75,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92m A LOVE A
 \033[1;96mInstagram \033[1;93m: \033[1: itx_khaperai
 \033[1;96mFacebook  \033[1;93m: \033[1: Asfandyaro onfire
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/aftabali/alovea
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Aftab/alovea
 \033[1;91m======================================="""
 
 def tik():
@@ -114,11 +114,11 @@ ___♥____\_____♥___ You Had
 ____♥___/___♥_____ Your Heart
 ______♥_\_♥_______ Broken
 ________♥_________…………….
-                   WhatsApp : 03124788959
+                   
 \033[1;96mAuthor  \033[1;93m: \033[1;92m A LOVE A
 \033[1;96mInstagram \033[1;93m: \033[1; itx_khaperai
 \033[1;96mFacebook  \033[1;93m: \033[1; Asfandyaro onfire
-\033[1;96mGithub \033[1;93m:033[1;92mhttps://github.com/aftabali/alovea
+\033[1;96mGithub \033[1;93m:033[1;92mhttps://github.com/Aftab/alovea
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
